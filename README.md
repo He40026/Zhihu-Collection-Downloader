@@ -47,7 +47,7 @@ pip install -r requirements.txt
     "_xsrf": "",
     "q_c1": "",
     "edu_user_uuid": "",
-    "Hm_lvt_xxxxxxxxxxxxxxxxx": "",
+    "Hm_lvt_xxxxxxxxxxxxxxxx": "",
     "z_c0": "",
     "__zse_ck": "",
     "tst": "",
