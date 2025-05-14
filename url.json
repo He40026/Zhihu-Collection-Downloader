@@ -1,0 +1,13 @@
+{
+    "global_image_path": "这里填图片文件保存路径",
+    "collections": [
+        {
+            "url": "这里填收藏夹链接",
+            "path": "这里填md文件保存路径"
+        },
+        {
+            "url":"",
+            "path":""
+        }
+    ]
+}
