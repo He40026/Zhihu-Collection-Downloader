@@ -1,13 +1,13 @@
 {
-    "global_image_path": "这里填图片文件保存路径",
+    "global_image_path": "./images",
     "collections": [
         {
-            "url": "这里填收藏夹链接",
-            "path": "这里填md文件保存路径"
+            "url": "https://www.zhihu.com/collection/收藏夹id1",
+            "path": "./docs/收藏夹1"
         },
         {
-            "url":"",
-            "path":""
+            "url": "https://www.zhihu.com/collection/收藏夹id2",
+            "path": "./docs/收藏夹2"
         }
     ]
 }
