@@ -47,7 +47,7 @@ pip install -r requirements.txt
     "_xsrf": "",
     "q_c1": "",
     "edu_user_uuid": "",
-    "Hm_lvt_xxxxxxxxxxxxxxxx": "",
+    "Hm_lvt_xxxxxxxxxxxxxxxxx": "",
     "z_c0": "",
     "__zse_ck": "",
     "tst": "",
@@ -122,7 +122,7 @@ python main.py
 
 2.新增验证文件重复功能，同名同哈希值文章将跳过下载
 
-3.修改文件命名规则。
+3.修改文件命名规则
 
 ## 关于本项目ℹ️
 
@@ -133,6 +133,5 @@ python main.py
 ## 免责声明⚠️
 
 - 本项目仅供个人学习和技术研究
-- 使用者应对自身行为负责
 - 使用过程中务必遵守相关协议及法律法规
-- 开发者不承担因滥用导致的任何法律责任
+- 开发者不承担因使用者滥用导致的任何法律责任
