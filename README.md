@@ -16,7 +16,7 @@
 1.**克隆仓库**
 
 ```bash
-git clone https://github.com/yourusername/Zhihu-Collection-Downloader.git
+git clone https://github.com/He40026/Zhihu-Collection-Downloader.git
 cd Zhihu-Collection-Downloader
 ```
 
