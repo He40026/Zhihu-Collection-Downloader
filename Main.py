@@ -565,10 +565,10 @@ def main():
             traceback.print_exc()
 
     print("\n--- 所有任务已完成。 ---")
-    input("按任意键退出。")
+    # input("按任意键退出。")
 
 
-if __name__ == "__main__":
+def all_main():
     # 检查所有必要的外部库是否已安装
     missing_libs = []
     try:
@@ -592,6 +592,5 @@ if __name__ == "__main__":
             print(f"  - {lib_name} (请运行: pip install {lib_name})")
         print("请安装缺失的库后重试。")
         exit()  # 如果有库缺失，则退出脚本
-
-    # 如果所有库都存在，则继续执行主程序
     main()
+

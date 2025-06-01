@@ -1,13 +1,9 @@
 {
-    "global_image_path": "./images",
-    "collections": [
-        {
-            "url": "https://www.zhihu.com/collection/收藏夹id1",
-            "path": "./docs/收藏夹1"
-        },
-        {
-            "url": "https://www.zhihu.com/collection/收藏夹id2",
-            "path": "./docs/收藏夹2"
-        }
-    ]
+  "global_image_path": "./images",
+  "collections": [
+    {
+      "url": "https://www.zhihu.com/collection/932549384",
+      "path": "./docs/就业"
+    }
+  ]
 }
